@@ -1,1 +1,1 @@
-# silent-screenshot
+# silent-screenshot chrome extension
